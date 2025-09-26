@@ -21,7 +21,7 @@ It contains two main pages:
 ---
 
 ## 🚀 Live Demo  
-🔗 [View Portfolio Website]([link](https://snehameganathan.github.io/portfolio_simple_website/)) <!-- Replace with your live link -->
+🔗 [View Portfolio Website](https://snehameganathan.github.io/portfolio_simple_website/) <!-- Replace with your live link -->
 
 ---
 
