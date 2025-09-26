@@ -1,2 +1,32 @@
-# portfolio_simple_website
-A minimal personal portfolio website to showcase projects, skills, and contact details.
+# 🌐 Portfolio Website  
+
+This is my personal **portfolio website**, built using **HTML** and **CSS**.  
+It contains two main pages:  
+- 🏠 **Home** – An introduction about me and my work  
+- ✉️ **Contact** – A page to get in touch with me  
+---
+
+## ✨ Features  
+- Simple and clean design  
+- Easy navigation (Home & Contact)  
+- Fully responsive layout  
+- Lightweight and fast loading  
+
+---
+
+## 🛠️ Technologies Used  
+- **HTML5**  
+- **CSS3**  
+
+---
+
+## 🚀 Live Demo  
+🔗 [View Portfolio Website](link) <!-- Replace with your live link -->
+
+---
+
+## 📌 Purpose  
+This portfolio website serves as a personal site to introduce myself and provide a simple way for people to contact me.  
+
+---
+Thank you for visiting my portfolio.
